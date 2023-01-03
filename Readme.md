@@ -14,4 +14,6 @@ This workshop covers datatypes, operations, conditions, loops, functions and lib
 
 [Session4](/session4): Pandas & Numpy
 
-Happy coding!
+Happy coding! 
+
+Thank you!
